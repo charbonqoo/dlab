@@ -28,12 +28,6 @@
     </div>
 </body>
 <script>
-</script>
-</html>
-    <h2 id="h2-2">街の中心を流れる鶴見川　　</h2>
-    </div>
-</body>
-<script>
     
 </script>
 
