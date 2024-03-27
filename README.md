@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>町田市三輪町</title>
-    <link rel="stylesheet" type="text/css" href="/Users/maruyama/Documents/dlab/春休み課題/miwa.css">
+    <link rel="stylesheet" type="text/css" href="miwa.css">
 </head>
 <body>
     <img id="top" src="/Users/maruyama/Documents/dlab/春休み課題/IMG_4314.JPG">
@@ -24,6 +24,12 @@
     <h1 is="apace">&nbsp;</h1>
     <img id="river" src="/Users/maruyama/Documents/dlab/春休み課題/IMG_4316.JPG">
     <h3>&nbsp;</h3>
+    <h2 id="h2-2">街の中心を流れる鶴見川　　</h2>
+    </div>
+</body>
+<script>
+</script>
+</html>
     <h2 id="h2-2">街の中心を流れる鶴見川　　</h2>
     </div>
 </body>
