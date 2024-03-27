@@ -7,7 +7,7 @@
 <body>
     <img id="top" src="/Users/maruyama/Documents/dlab/春休み課題/IMG_4314.JPG">
     <div class="taglink">
-    <a href="/Users/maruyama/Documents/dlab/春休み課題/miwa.html">ホーム</a>
+    <a href="/Users/maruyama/Documents/dlab/春休み課題/index.html">ホーム</a>
     <a href="/Users/maruyama/Documents/dlab/春休み課題/miwa_2.html">里山</a>
     <a href="/Users/maruyama/Documents/dlab/春休み課題/miwa_3.html">地域</a>
     <h3>　　東京都町田市三輪町</h3>
